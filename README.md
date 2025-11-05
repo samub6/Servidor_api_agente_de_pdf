@@ -185,18 +185,6 @@ Faz uma pergunta sobre os documentos processados.
 | Porta em uso | Verifique se a porta `10000` está livre |
 | Dependências | Use **Python 3.11.0** para compatibilidade |
 
----
-
-## 📄 Licença
-
-Este projeto é para **fins educacionais e de demonstração**.
-
----
-
-## 👥 Contribuições
-
-Contribuições são bem-vindas!  
-Sinta-se à vontade para abrir *issues* e *pull requests*.
 
 ---
 
